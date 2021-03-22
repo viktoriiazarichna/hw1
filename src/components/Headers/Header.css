@@ -1,0 +1,15 @@
+.header {
+    background: #61dafb;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /*position: relative;*/
+}
+
+.btn {
+    height: 50px;
+    width:100px;
+    /*position: absolute;*/
+
+}
